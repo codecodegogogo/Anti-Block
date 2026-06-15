@@ -1,0 +1,52 @@
+! Title: Anti-Fraud Block
+! Description: DNS-level anti-fraud block rules for AdGuard Home.
+! Source: rules/anti_fraud_hosts.txt
+! Format: AdGuard Home custom filtering rules, hosts syntax.
+!
+! These rules block the listed domain names through DNS. They do not block
+! direct connections to bare IP addresses.
+
+0.0.0.0 gjfzpt.cn
+0.0.0.0 fzapp-test-tyy.gjfzpt.cn
+0.0.0.0 oss.gjfzpt.cn
+0.0.0.0 fzapp.gjfzpt.cn
+0.0.0.0 fzapph5.gjfzpt.cn
+0.0.0.0 miit.gov.cn
+0.0.0.0 mps.gov.cn
+0.0.0.0 beian.miit.gov.cn
+0.0.0.0 ywtbapi.mps.gov.cn
+0.0.0.0 beian.mps.gov.cn
+0.0.0.0 mail.mps.gov.cn
+0.0.0.0 ywtb.mps.gov.cn
+0.0.0.0 ngo.mps.gov.cn
+0.0.0.0 m.mps.gov.cn
+0.0.0.0 dbjb.mps.gov.cn
+0.0.0.0 ispl.mps.gov.cn
+0.0.0.0 ecidewc.mps.gov.cn
+0.0.0.0 cyberpolice.mps.gov.cn
+0.0.0.0 app.mps.gov.cn
+0.0.0.0 zlbj.mps.gov.cn
+0.0.0.0 zwfw.mps.gov.cn
+0.0.0.0 ecidcwc.mps.gov.cn
+0.0.0.0 www.mps.gov.cn
+0.0.0.0 chanct.com
+0.0.0.0 fqzpt.com
+0.0.0.0 fzlm.com
+0.0.0.0 fanzha.org.cn
+0.0.0.0 hicore-auth.com
+0.0.0.0 hei-tong.com
+0.0.0.0 loongteam.com
+0.0.0.0 cert.org.cn
+0.0.0.0 ifcert.cn
+0.0.0.0 ifcert.com
+0.0.0.0 ifcert.org.cn
+0.0.0.0 cnvd.org.cn
+0.0.0.0 anva.org.cn
+0.0.0.0 ics-cert.org.cn
+0.0.0.0 certlab.org
+0.0.0.0 china-bestmind.com
+0.0.0.0 i-bestmind.com
+0.0.0.0 t-bestmind.com
+0.0.0.0 himindtech.com
+0.0.0.0 fhss.com.cn
+0.0.0.0 hailiangyun.cn
