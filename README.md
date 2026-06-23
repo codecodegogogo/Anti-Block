@@ -1,1 +1,1 @@
-adguard home 加速链接：[https://cdn.jsdelivr.net/gh/codecodegogogo/Anti-Fraud-Block@main/adguardhome/anti_fraud_dns_filter.txt](https://cdn.jsdelivr.net/gh/codecodegogogo/Anti-Block@main/anti_fraud_dns_filter.txt)
+adguard home 加速链接：
